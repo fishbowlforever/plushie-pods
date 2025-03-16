@@ -19,7 +19,8 @@
 	  "minecraft:consumable": {
         "consume_seconds": 0.1,
 		"animation": "none",
-		"has_consume_particles": true
+		"has_consume_particles": true,
+		"sound": "minecraft:block.bubble_column.bubble_pop"
       }
 	}
   }
